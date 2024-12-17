@@ -1,0 +1,5 @@
+1. run--> template.py
+2. work with init_setup.py
+3. select terminal(powershell) and run --> bash init_setup.sh
+4. conda init ==> conda activate ./env
+5. 
