@@ -4,4 +4,6 @@
 4. conda init ==> conda activate ./env
 5. work with experiment.ipynb
 6. work with exception=> exception.py
-7. 
+7. work with logger=> logging.py
+8. work with components/ingestion=> ingestion.py
+9. -e. install all the local package
